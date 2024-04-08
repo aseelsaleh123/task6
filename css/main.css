@@ -1,0 +1,31 @@
+
+.iphone-15 h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    
+}
+.iphone-15{
+    float: left;
+}
+.iphone-{
+    
+    float: left;
+    margin: 20px;;
+}
+
+span{
+    color: red;
+    font-size: small;
+}
+p{
+    color: darkgreen;
+}
+img{
+    width: 300px;
+}
+.b1{
+    height: 30px;
+    background-color: rgb(52, 52, 191);
+    
+
+}
